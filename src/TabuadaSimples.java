@@ -30,10 +30,9 @@ public class TabuadaSimples {
 					resposta = entrada.nextInt();
 		//    fim enquanto
 				}
+				System.out.println("Muito bem!");
 		// fim se
 			}
-			
-			entrada.close();
 		}
 	}
 
