@@ -32,6 +32,8 @@ public class TabuadaSimples {
 				}
 		// fim se
 			}
+			
+			entrada.close();
 		}
 	}
 
